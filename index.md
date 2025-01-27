@@ -6,7 +6,7 @@
 
 [프로젝트1] 세계 행복 데이터
 
-[![Project 1 Thumbnail](images/project1.jpg?raw=true)](https://github.com/citydataviz/FastCampus/blob/main/Part4/Project1/Chapter3-1(EDA%26Descriptive_statistics).ipynb)
+[![Project 1 Thumbnail](images/project1.png?raw=true)](https://github.com/citydataviz/FastCampus/blob/main/Part4/Project1/Chapter3-1(EDA%26Descriptive_statistics).ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
